@@ -1,6 +1,5 @@
 from google.cloud import language
 
-
 def language_analysis(text):
     client = language.Client()
     document = client.document_from_text(text)
