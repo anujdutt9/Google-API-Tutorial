@@ -10,19 +10,19 @@ pip3 install google-cloud
 ```
 
 
-# Outcomes
+# Results
 
-* NLP API
+* **NLP API**
 
 ![Output a1](NLP-API/Untitled.png?raw=true "Output a1")
 
 
-* Translation API
+* **Translation API**
 
 ![Output a1](Translation-API/Untitled.png?raw=true "Output a1")
 
 
-* Vision API
+* **Vision API**
 
 <img src="Vision-API/img1.jpg" alt="" width="30%"> <img src="Vision-API/Text_Recognition.png" alt="" width="80%">
 
