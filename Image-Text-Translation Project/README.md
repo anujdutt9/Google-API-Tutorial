@@ -11,16 +11,24 @@ pip3 install google-cloud
 ```
 
 
+# Code Execution
+
+```
+python3 Image-Text-Translation.py image_name.extension
+```
+
+![Output a1](Image-Text-Translation Project/Output.gif?raw=true "Output a1")
+
+
+
+
 # Results
 
 * **Spanish to French:**
 
-Image:
 
 <img src="Images/img1.jpg" alt="" width="30%"> 
 
-
-Output: Translated Text
 
 <img src="Images/out1.png" alt="" width="100%">
 
@@ -28,12 +36,10 @@ Output: Translated Text
 
 * **French to English:**
 
-Image:
 
 <img src="Images/img2.jpg" alt="" width="30%"> 
 
 
-Output: Translated Text
 
 <img src="Images/out2.png" alt="" width="80%">
 
@@ -41,14 +47,13 @@ Output: Translated Text
 
 * **English to Spanish:**
 
-Image:
 
 <img src="Images/img3.jpg" alt="" width="30%"> 
 
 
-Output: Translated Text
-
 <img src="Images/out3.png" alt="" width="100%">
+
+
 
 
 
