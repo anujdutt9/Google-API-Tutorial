@@ -11,9 +11,44 @@ pip3 install google-cloud
 ```
 
 
-# Result
+# Results
 
-<img src="Images/img1.jpg" alt="" width="30%"> <img src="Images/img2.jpg" alt="" width="30%"> <img src="Images/img3.jpg" alt="" width="30%">
+* **Spanish to French:**
+
+Image:
+
+<img src="Images/img1.jpg" alt="" width="30%"> 
+
+
+Output: Translated Text
+
+<img src="Images/out1.png" alt="" width="80%">
+
+
+
+* **French to English:**
+
+Image:
+
+<img src="Images/img2.jpg" alt="" width="30%"> 
+
+
+Output: Translated Text
+
+<img src="Images/out2.png" alt="" width="80%">
+
+
+
+* **English to Spanish:**
+
+Image:
+
+<img src="Images/img3.jpg" alt="" width="30%"> 
+
+
+Output: Translated Text
+
+<img src="Images/out3.png" alt="" width="80%">
 
 
 
