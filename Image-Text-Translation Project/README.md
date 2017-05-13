@@ -22,7 +22,7 @@ Image:
 
 Output: Translated Text
 
-<img src="Images/out1.png" alt="" width="80%">
+<img src="Images/out1.png" alt="" width="100%">
 
 
 
@@ -48,7 +48,7 @@ Image:
 
 Output: Translated Text
 
-<img src="Images/out3.png" alt="" width="80%">
+<img src="Images/out3.png" alt="" width="100%">
 
 
 
