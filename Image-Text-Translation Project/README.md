@@ -17,7 +17,7 @@ pip3 install google-cloud
 python3 Image-Text-Translation.py image_name.extension
 ```
 
-![Output a1](output.gif?raw=true "Output a1")
+![Output a1](Output.gif?raw=true "Output a1")
 
 
 
