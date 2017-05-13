@@ -24,7 +24,7 @@ pip3 install google-cloud
 
 * Vision API
 
-<img src="Vision-API/img1.jpg" alt="" width="30%"> <img src="Vision-API/Text_Recognition.png" alt="" width="30%">
+<img src="Vision-API/img1.jpg" alt="" width="30%"> <img src="Vision-API/Text_Recognition.png" alt="" width="80%">
 
 
 
